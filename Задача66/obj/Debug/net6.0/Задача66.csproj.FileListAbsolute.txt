@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/bin/Debug/net6.0/Задача66
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/bin/Debug/net6.0/Задача66.deps.json
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/bin/Debug/net6.0/Задача66.runtimeconfig.json
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/bin/Debug/net6.0/Задача66.dll
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/bin/Debug/net6.0/Задача66.pdb
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.AssemblyInfo.cs
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.dll
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/refint/Задача66.dll
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.pdb
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/Задача66.genruntimeconfig.cache
+/Users/MacBook/Desktop/SEMINAR9.DZ/Задача66/obj/Debug/net6.0/ref/Задача66.dll
